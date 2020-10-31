@@ -1,0 +1,21 @@
+{
+  "myApp": {
+    "d": {
+      "home": {
+        "title": "DS",
+        "createLabel": "Créer un nouveau D",
+        "createOrEditLabel": "Créer ou éditer un D",
+        "notFound": "Aucun D trouvé"
+      },
+      "created": "Un nouveau D a été créé avec l'identifiant {{ param }}",
+      "updated": "Le D avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le D avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Etes-vous certain de vouloir supprimer le D {{ id }} ?"
+      },
+      "detail": {
+        "title": "D"
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "myApp": {
+    "b": {
+      "home": {
+        "title": "BS",
+        "createLabel": "Créer un nouveau B",
+        "createOrEditLabel": "Créer ou éditer un B",
+        "notFound": "Aucun B trouvé"
+      },
+      "created": "Un nouveau B a été créé avec l'identifiant {{ param }}",
+      "updated": "Le B avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le B avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Etes-vous certain de vouloir supprimer le B {{ id }} ?"
+      },
+      "detail": {
+        "title": "B"
+      },
+      "a": "A"
+    }
+  }
+}
